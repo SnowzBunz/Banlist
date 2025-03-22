@@ -1,4 +1,3 @@
 {
-    "157963368": "Exploiting",
-    "987654321": "Toxic behavior"
+    "157963368": { "reason": "test", "timestamp": 1711046400, "duration": 30 },
 }
